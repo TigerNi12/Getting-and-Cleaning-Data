@@ -8,7 +8,7 @@ Original dataset: [UCI HAR Dataset](http://archive.ics.uci.edu/ml/datasets/Human
 ---
 
 ## 2. Variables in the Tidy Dataset  
-This dataset contains **subject identifiers**, **activity labels**, and **measurements** related to smartphone sensor data.  
+This dataset contains subject identifiers, activity labels, and measurements related to smartphone sensor data.  
 
 ### **Identifiers**  
 | Variable | Description |
@@ -80,5 +80,3 @@ The activities are labeled as follows:
 
 ---
 
-## 6. License  
-This dataset follows the [MIT License](LICENSE).  
