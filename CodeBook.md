@@ -37,9 +37,9 @@ Only **mean** and **standard deviation** measurements are included.
 The following steps were applied to clean and process the data:  
 
 1. **Merged Training and Test Data**  
-   - Combined `X_train.txt` and `X_test.txt` into one dataset.  
-   - Combined `y_train.txt` and `y_test.txt` into one dataset.  
-   - Combined `subject_train.txt` and `subject_test.txt` into one dataset.  
+   - Combined `X_training.txt` and `X_test.txt` into one dataset.  
+   - Combined `y_training.txt` and `y_test.txt` into one dataset.  
+   - Combined `subject_training.txt` and `subject_test.txt` into one dataset.  
 
 2. **Extracted Only Mean and Standard Deviation Measurements**  
    - Selected only features containing `mean()` and `std()`.
